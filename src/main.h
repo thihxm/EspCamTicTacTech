@@ -1,0 +1,1 @@
+int sendPhotoToServer(uint8_t *data, size_t len);
